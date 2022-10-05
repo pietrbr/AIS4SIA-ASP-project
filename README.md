@@ -1,3 +1,5 @@
+# AIS4SIA Alta Scuola Politecnica Project
+
 The AIS4SIA system collects data about the status 
 of the vines and provides insightful information about 
 the water stress of the plants that can be exploited to 
@@ -7,7 +9,7 @@ the upcoming harvest season.
 The system is constituted by two main parts: the sensing 
 modules collect information about the vines and the 
 vineyard status, while a server analyzes the collected 
-data, computes the Crop Water Stress Index (CWSI), 
+data, computes the **Crop Water Stress Index**(CWSI), 
 and generates maps that can be used to monitor the 
 current status of the vineyard in detail, as well as to 
 make prediction about the future development of the 

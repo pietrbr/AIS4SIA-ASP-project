@@ -1,4 +1,4 @@
-# AIS4SIA Alta Scuola Politecnica Project
+# AIS4SIA Alta Scuola Politecnica XVII Cycle Project
 
 The AIS4SIA system collects data about the status 
 of the vines and provides insightful information about 

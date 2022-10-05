@@ -1,3 +1,6 @@
 [submodule "python-guy-app"]
 	path = python-guy-app
 	url = git@github.com:pietrbr/python-gui-app.git
+[submodule "CWSI-computer"]
+	path = CWSI-computer
+	url = git@github.com:pietrbr/CWSI-computer.git
